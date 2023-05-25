@@ -15,7 +15,8 @@
 - 🧠 Most recent challenge => Learning ThreeJS 
 
 ## My Skills
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<p style="height: 50px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+</p>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeFreak&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
