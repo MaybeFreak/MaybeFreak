@@ -1,7 +1,3 @@
-
-            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
-
 <!-- Banner -->
 <p align="center">
   <img width=800 align="center" src="https://cdn.discordapp.com/attachments/142745451207065600/1111229641722707988/GitHubBanner.png" alt="Banner" />
@@ -19,10 +15,7 @@
 - 🧠 Most recent challenge => Learning ThreeJS 
 
 ## My Skills
-  
-  <i class="devicon-html5-plain-wordmark"></i>
-  <i class="devicon-css3-plain-wordmark"></i>  
-  <i class="devicon-javascript-plain"></i>
-  <i class="devicon-react-original-wordmark"></i>
 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeFreak&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
