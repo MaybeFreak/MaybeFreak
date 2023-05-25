@@ -1,3 +1,7 @@
+
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+          
+
 <!-- Banner -->
 <p align="center">
   <img width=800 align="center" src="https://cdn.discordapp.com/attachments/142745451207065600/1111229641722707988/GitHubBanner.png" alt="Banner" />
