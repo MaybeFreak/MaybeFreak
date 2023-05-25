@@ -14,7 +14,7 @@
 - 🌱 Interested about learning TypeScript, Python, C# and or C++.
 - 🧠 Most recent challenge => Learning ThreeJS 
 
-## My Skills
+## My Skills 🧰
 
 <p style="background-color: #282c34">
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
