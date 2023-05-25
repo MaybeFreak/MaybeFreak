@@ -1,3 +1,5 @@
+<img width=800 align="center" src="https://cdn.discordapp.com/attachments/142745451207065600/1111229641722707988/GitHubBanner.png" alt="Banner">
+
 ### Hi there 👋
 
 <!--
@@ -15,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeFreak&count_private=true&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeFreak&count_private=true&hide=issues&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeFreak&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
