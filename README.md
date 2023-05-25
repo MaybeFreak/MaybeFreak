@@ -16,11 +16,9 @@
 
 ## My Skills
   
-<p style="background-color: #282c34;">
   <i class="devicon-html5-plain-wordmark"></i>
   <i class="devicon-css3-plain-wordmark"></i>  
   <i class="devicon-javascript-plain"></i>
   <i class="devicon-react-original-wordmark"></i>
-</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeFreak&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
