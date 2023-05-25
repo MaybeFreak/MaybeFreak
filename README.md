@@ -1,7 +1,10 @@
 <!-- Banner -->
-<img width=800 align="center" src="https://cdn.discordapp.com/attachments/142745451207065600/1111229641722707988/GitHubBanner.png" alt="Banner" />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MaybeFreak&count_private=true&hide=issues&show_icons=true&theme=onedark" alt="Stats" >
+<p align="center">
+  <img width=800 align="center" src="https://cdn.discordapp.com/attachments/142745451207065600/1111229641722707988/GitHubBanner.png" alt="Banner" />
+<p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MaybeFreak&count_private=true&hide=issues&show_icons=true&theme=onedark" alt="Stats" >
+<p>
 
 ## About Me ☕
 
