@@ -1,4 +1,5 @@
 <img width=800 align="center" src="https://cdn.discordapp.com/attachments/142745451207065600/1111229641722707988/GitHubBanner.png" alt="Banner">
+
 <!--
 **MaybeFreak/MaybeFreak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeFreak&count_private=true&hide=issues&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaybeFreak&count_private=true&hide=issues&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## About Me ☕
 
