@@ -16,6 +16,7 @@
 
 ## My Skills
 
+<p>
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -30,7 +31,6 @@
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" />
   <img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-
-
+</p>
           
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaybeFreak&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
