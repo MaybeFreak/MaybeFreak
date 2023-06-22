@@ -11,8 +11,8 @@
 - 🎓 Recent graduate of Boolean Uks full-stack developer course.
 - 🔍 Looking for a challenging position as a junior developer.
 - 🔨 Currently working on a video sharing platform and several smaller projects.
-- 🌱 Interested about learning TypeScript, Python, C# and or C++.
-- 🧠 Most recent challenge => Learning ThreeJS 
+- 🌱 Interested about learning TypeScript, Python and C#
+- 🧠 Most recent challenge => Learning C++ 
 
 ## My Skills 🧰
 
